@@ -1,0 +1,3 @@
+C:/Users/Biosense/Documents/Clion/HW01/Data Strucers/Data-Structures-DS_wet1_Winter/cmake-build-debug/CMakeFiles/Data_Structures_DS_wet1_Winter.dir
+C:/Users/Biosense/Documents/Clion/HW01/Data Strucers/Data-Structures-DS_wet1_Winter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Biosense/Documents/Clion/HW01/Data Strucers/Data-Structures-DS_wet1_Winter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
